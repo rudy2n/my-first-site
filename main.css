@@ -1,0 +1,24 @@
+body {
+}
+.content {
+    background-color: blue !important;
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+}
+p {
+    color: yellowgreen;
+}
+.color-yellow {
+    color: yellow
+}
+
+.container-fluid {
+    background-color: #ffaaed;
+}
+
+.accordion-button {
+    background-color: grey !important;
+}
